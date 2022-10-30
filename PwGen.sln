@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PwGen.Installer", "PwGen.Installer\PwGen.Installer.csproj", "{80C746EF-585A-4FF9-935E-B7370DA632C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PwGen.Plugin", "PwGen.Plugin\PwGen.Plugin.csproj", "{5EF4AB10-B189-49EC-8582-D35AC9F64CCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80C746EF-585A-4FF9-935E-B7370DA632C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80C746EF-585A-4FF9-935E-B7370DA632C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80C746EF-585A-4FF9-935E-B7370DA632C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80C746EF-585A-4FF9-935E-B7370DA632C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EF4AB10-B189-49EC-8582-D35AC9F64CCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EF4AB10-B189-49EC-8582-D35AC9F64CCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EF4AB10-B189-49EC-8582-D35AC9F64CCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EF4AB10-B189-49EC-8582-D35AC9F64CCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

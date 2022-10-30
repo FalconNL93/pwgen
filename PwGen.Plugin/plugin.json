@@ -1,0 +1,13 @@
+﻿{
+  "ID": "F3276A39D4E9G17C8FFD200B0EE5E871",
+  "ActionKeyword": "pw",
+  "IsGlobal": true,
+  "Name": "Password Generator",
+  "Author": "FalconNL93",
+  "Version": "1.0.0",
+  "Language": "csharp",
+  "Website": "https://github.com/FalconNL93/pwgen",
+  "ExecuteFileName": "PwGen.Plugin.dll",
+  "IcoPathDark": "Assets\\pwgen.dark.png",
+  "IcoPathLight": "Assets\\pwgen.light.png"
+}

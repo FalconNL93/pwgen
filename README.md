@@ -8,4 +8,9 @@ Basic password generator for PowerToys Run.
 * Restart PowerToys
 
 ## Usage
-You can invoke PwGen by typing `pw` in the PowerToys Run bar, you can change the length of the password by passing it as parameter (e.g. `pwgen 10`)
+You can invoke PwGen by typing `pw` in the PowerToys Run bar.
+
+| Command     | Parameter                                      |
+|-------------|------------------------------------------------|
+| pw          | Generate password with the default length (25) |
+| pw (length) | Generate password with custom length           |

@@ -13,8 +13,12 @@
         <Product>PwGen.Installer</Product>
     </PropertyGroup>
 
+    <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+      <DebugType>none</DebugType>
+    </PropertyGroup>
+
     <ItemGroup>
-        <ProjectReference Include="..\PwGen.Plugin\PwGen.Plugin.csproj"/>
+        <ProjectReference Include="..\PwGen.Plugin\PwGen.Plugin.csproj" />
     </ItemGroup>
 
 </Project>
